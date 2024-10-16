@@ -26,7 +26,7 @@ I love solving complex problems and using **digital tools** to innovate and stre
 
 ### 🎯 I’m currently working on:
 
-- 🌱 Enhancing my skills in **AI and automation** for the AEC industry  
+- 🧠 **Learning Python, Git, and GitHub** to enhance my skills in structural engineering
 - 🔍 Exploring **generative design** and its applications in structural engineering  
 - 📚 Building **open-source** tools to assist engineers with BIM and structural tasks
 
